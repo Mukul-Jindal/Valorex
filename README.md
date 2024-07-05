@@ -30,3 +30,15 @@ After initializing virtual device run:
   flutter run
 ```
 
+Note: You can simply download the Valorant.apk from the repository
+## Screenshots
+
+<div >
+  <img src="/Screenshots/HomePage.jpg?raw=true" width="200px" height="400px" ></img>
+  <img src="/Screenshots/AgentsList.jpg?raw=true" width="200px" height="400px" ></img>
+  <img src="/Screenshots/SpecificAgent.jpg?raw=true" width="200px" height="400px" ></img>
+  <img src="/Screenshots/GunList.jpg?raw=true" width="200px" height="400px" ></img>
+  <img src="/Screenshots/GunStat.jpg?raw=true" width="200px" height="400px" ></img>
+  <img src="/Screenshots/MapList.jpg?raw=true" width="200px" height="400px" ></img>
+  <img src="/Screenshots/MapStat.jpg?raw=true" width="200px" height="400px" ></img>
+</div>
