@@ -30,7 +30,7 @@ After initializing virtual device run:
   flutter run
 ```
 
-Note: You can simply download the Valorant.apk from the repository
+Note: You can simply download the Valorant.apk (Provided you are having android device) from the repository
 ## Screenshots
 
 <div >
